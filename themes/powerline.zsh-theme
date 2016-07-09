@@ -1,0 +1,1 @@
+../../.oh-my-zsh-themes/powerline/powerline.zsh-theme
